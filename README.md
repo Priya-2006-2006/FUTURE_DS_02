@@ -101,4 +101,14 @@ Customers with shorter tenure are more likely to leave the service, while long-t
 
 Gender has minimal impact on churn, while Senior Citizen customers show slightly higher churn behavior.
 
+Recommendations
+Improve onboarding experiences for new customers.
+Offer loyalty rewards and retention programs.
+Increase customer engagement through personalized communication.
+Monitor high-risk customer segments proactively.
+Optimize subscription plans based on customer preferences.
+
+Conclusion
+This Customer Retention & Churn Analysis dashboard helps businesses understand customer behavior, identify churn risks, and implement data-driven strategies to improve customer retention, customer satisfaction, and long-term revenue growth.
+
 
